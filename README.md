@@ -7,10 +7,21 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 ### Kernel or Board Repos
 * https://github.com/matissewifi/android_kernel_samsung_matisse
 * https://github.com/matissewifi/android_device_samsung_msm8226-common
+
 ## Todo:
 * Get microphone working on skype.
+* Get LTE working on matisselte.
+* Get 3G working on matisse3g.
+* Get IRBlaster working on SM-T530NU.
+* Fix BT_A2DP.
+* Fix setup screen on matisselte & matisse3g.
+* Fix installtion screen on all Samsung Galaxy Tab 4 10.1.
 * Fix minor bugs in LineageOS 14.1.
 * Upgrede to Oreo then Pie after fixing every that needs fixing in LineageOS 14.1.
+
+## Note:
+All devices are built useing https://github.com/LightningFastRom by @DJABHipHop on xda.
+LightningFastRom is based on LineageOS minus the crap & none of the ugly / unnessary feature like audio visualizer, music playback control with volume keys, etc.. P.S if anyones want to join and help add new & useful feature, improve & optimize the rom for legacy devices feel free to ask on XDA.
 ____
 |Code Name|Model Number|ScreenSize|Colors|
 |--|--|--|--|
