@@ -10,8 +10,8 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 
 ## Todo:
 * Get microphone working on skype.
-* Get LTE working on matisselte (All those the system detect the sim cad mobil date srill does not work all).
-* Get 3G working on matisse3g (All those the system detect the sim cad mobil date srill does not work all).
+* Get LTE working on matisselte (All those the system detect the sim cad mobile date still doesn't work all).
+* Get 3G working on matisse3g (All those the system detect the sim cad mobile date still doesn't work all).
 * Get IRBlaster working on SM-T530NU.
 * Fix BT_A2DP.
 * Fix setup screen on matisselte & matisse3g.
