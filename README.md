@@ -10,12 +10,11 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 
 ## Todo:
 * Get microphone working on skype.
-* Get LTE working on matisselte.
-* Get 3G working on matisse3g.
+* Get LTE working on matisselte (All those the system detect the sim cad mobil date srill does not work all).
+* Get 3G working on matisse3g (All those the system detect the sim cad mobil date srill does not work all).
 * Get IRBlaster working on SM-T530NU.
 * Fix BT_A2DP.
 * Fix setup screen on matisselte & matisse3g.
-* Fix installtion screen on all Samsung Galaxy Tab 4 10.1.
 * Fix minor bugs in LineageOS 14.1.
 * Upgrede to Oreo then Pie after fixing every that needs fixing in LineageOS 14.1.
 
